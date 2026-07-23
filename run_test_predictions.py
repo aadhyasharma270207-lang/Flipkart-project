@@ -1,3 +1,11 @@
+import sys
+# Hack to handle scikit-learn version mismatch where pickle looks for top-level '_loss' module
+try:
+    import sklearn._loss.loss as loss_mod
+    sys.modules['_loss'] = loss_mod
+except ImportError:
+    pass
+
 import pandas as pd
 import numpy as np
 import joblib
