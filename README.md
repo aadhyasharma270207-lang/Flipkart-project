@@ -2,7 +2,7 @@
 
 A modern, high-performance Streamlit web application that predicts customer satisfaction (CSAT) scores for Flipkart customer support interactions. The application uses a pre-trained Gradient Boosting Classifier model, performing preprocessing, log-transformation, scaling, and classification in real time. It also features a historical insights dashboard visualizing key performance indicators from support logs.
 
-Live App URL: [Streamlit Community Cloud Link](https://flipkart-project-m6hmrzkx3mcawrpmnz4phj.streamlit.app/)
+Live App URL: [Streamlit Community Cloud Link](https://flipkart-project-m6hmrzkx3mcawrpmnz4pbj.streamlit.app/)
 
 ---
 
