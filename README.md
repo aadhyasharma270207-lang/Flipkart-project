@@ -50,7 +50,7 @@ Start the local Streamlit server:
 ```bash
 streamlit run app.py
 ```
-Open [http://localhost:8501](http://localhost:8501) in your browser.
+Open [Streamlit App Link](https://flipkart-project-m6hmrzkx3mcawrpmnz4pbj.streamlit.app/) in your browser.
 
 ---
 
